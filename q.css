@@ -1,0 +1,13 @@
+body{
+	background-color: blue;
+	color:white;
+	font-size:20px;
+	font-weight:bolder;
+	margin-left:2rem;
+}
+#button {
+	background-color:black;
+	color:red;
+	font-size:18px;
+	padding:5px;
+}
